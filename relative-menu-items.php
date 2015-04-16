@@ -1,6 +1,7 @@
 <?php
 /*
     Plugin Name: Relative Menu Items
+    Plugin URI: https://github.com/enscope/wp-relative-menu-items
     Description: Allows to include relative ROOT in menu items
     Version: 1.0
     Author: Miroslav Hudak (enscope, s.r.o.)
