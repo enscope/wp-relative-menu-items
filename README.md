@@ -1,2 +1,2 @@
 # wp-relative-menu-items
-Simple Wordpress plugin allowing relative menu item specification
+Simple Wordpress plugin allowing relative menu item specification.
